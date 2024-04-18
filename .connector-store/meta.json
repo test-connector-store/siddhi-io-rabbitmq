@@ -1,0 +1,19 @@
+{
+    "name": "rabbitmq",
+    "owner": "WSO2",
+    "category": "Siddhi IO",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-io-rabbitmq/",
+    "description": "The siddhi-io-rabbitmq is an extension to Siddhi that publishes and receive events from rabbitmq broker.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-io",
+        "rabbitmq"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.1",
+            "products": []
+        }
+    ]
+}
